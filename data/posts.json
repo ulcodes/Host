@@ -1,0 +1,71 @@
+[
+    {
+        "title": "WordPress",
+        "snippet": "The most popular CMS platform, known for its flexibility and wide range of plugins.",
+        "date": "2024-11-01",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrzAicjrHuGWhcqpDgjnM8zp1mT1ZcUJ8Ssw&s",
+        "link": "post.html?post=wordpress"
+    },
+    {
+        "title": "Joomla",
+        "snippet": "A powerful, flexible CMS with a strong community and multilingual support.",
+        "date": "2024-11-02",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVOsaNYCn6C9nhei5oZPCePx2C-o0bw1Jjg&s",
+        "link": "post.html?post=joomla"
+    },
+    {
+        "title": "Drupal",
+        "snippet": "A highly customizable CMS favored by developers for complex and large-scale projects.",
+        "date": "2024-11-03",
+        "image": "
+    },
+    {
+        "title": "Magento",
+        "snippet": "A popular CMS for eCommerce, providing robust solutions for online stores of all sizes.",
+        "date": "2024-11-04",
+        "image": "https://www.google.com/imgres?q=magento&imgurl=https%3A%2F%2Fwww.webcreta.com%2Fwp-content%2Fuploads%2F2018%2F06%2FMagento-Header.png&imgrefurl=https%3A%2F%2Fwww.webcreta.com%2F10-interesting-facts-about-magento%2F&docid=7gMt1cuQI2wqKM&tbnid=cGSp-DYuk9B9YM&vet=12ahUKEwiP8ICe7L2JAxWui68BHU16Ez4QM3oECHAQAA..i&w=1400&h=674&hcb=2&ved=2ahUKEwiP8ICe7L2JAxWui68BHU16Ez4QM3oECHAQAA",
+        "link": "post.html?post=magento"
+    },
+    {
+        "title": "Shopify",
+        "snippet": "An easy-to-use eCommerce platform ideal for setting up online stores quickly.",
+        "date": "2024-11-05",
+        "image": "https://www.google.com/imgres?q=SHOPYFY&imgurl=https%3A%2F%2Fcdn.prod.website-files.com%2F614716f50b4f49202fdd0087%2F6229b0f7cf6b6325a4f9ac6d_shopify-review-shopify-ecommerce-platform%2520(1).jpg&imgrefurl=https%3A%2F%2Foffeo.com%2Flearn%2Fwhat-is-shopify&docid=TqDTLZxLi4WLQM&tbnid=Beum-UMCYe2A_M&vet=12ahUKEwj8he3M7L2JAxUIklYBHXHgLe4QM3oECB4QAA..i&w=1200&h=720&hcb=2&ved=2ahUKEwj8he3M7L2JAxUIklYBHXHgLe4QM3oECB4QAA",
+        "link": "post.html?post=shopify"
+    },
+    {
+        "title": "Squarespace",
+        "snippet": "A design-focused CMS with built-in tools for blogging, eCommerce, and portfolios.",
+        "date": "2024-11-06",
+        "image": "https://via.placeholder.com/150",
+        "link": "post.html?post=squarespace"
+    },
+    {
+        "title": "Wix",
+        "snippet": "A beginner-friendly CMS offering drag-and-drop functionality and a variety of templates.",
+        "date": "2024-11-07",
+        "image": "https://via.placeholder.com/150",
+        "link": "post.html?post=wix"
+    },
+    {
+        "title": "HubSpot CMS",
+        "snippet": "A CMS optimized for inbound marketing with integrated tools for lead generation and SEO.",
+        "date": "2024-11-08",
+        "image": "https://via.placeholder.com/150",
+        "link": "post.html?post=hubspot"
+    },
+    {
+        "title": "Ghost",
+        "snippet": "A CMS tailored for professional bloggers with a minimalist design and robust editing tools.",
+        "date": "2024-11-09",
+        "image": "https://via.placeholder.com/150",
+        "link": "post.html?post=ghost"
+    },
+    {
+        "title": "Contentful",
+        "snippet": "A headless CMS ideal for developers to create content-driven websites and applications.",
+        "date": "2024-11-10",
+        "image": "https://via.placeholder.com/150",
+        "link": "post.html?post=contentful"
+    }
+]
