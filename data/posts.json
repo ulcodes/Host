@@ -2,70 +2,60 @@
     {
         "title": "WordPress",
         "snippet": "The most popular CMS platform, known for its flexibility and wide range of plugins.",
-        "date": "2024-11-01",
         "image": "https://via.placeholder.com/150",
         "link": "post.html?post=wordpress"
     },
     {
         "title": "Joomla",
         "snippet": "A powerful, flexible CMS with a strong community and multilingual support.",
-        "date": "2024-11-02",
         "image": "https://via.placeholder.com/150",
         "link": "post.html?post=joomla"
     },
     {
         "title": "Drupal",
         "snippet": "A highly customizable CMS favored by developers for complex and large-scale projects.",
-        "date": "2024-11-03",
         "image": "https://via.placeholder.com/150",
         "link": "post.html?post=drupal"
     },
     {
         "title": "Magento",
         "snippet": "A popular CMS for eCommerce, providing robust solutions for online stores of all sizes.",
-        "date": "2024-11-04",
         "image": "https://via.placeholder.com/150",
         "link": "post.html?post=magento"
     },
     {
         "title": "Shopify",
         "snippet": "An easy-to-use eCommerce platform ideal for setting up online stores quickly.",
-        "date": "2024-11-05",
         "image": "https://via.placeholder.com/150",
         "link": "post.html?post=shopify"
     },
     {
         "title": "Squarespace",
         "snippet": "A design-focused CMS with built-in tools for blogging, eCommerce, and portfolios.",
-        "date": "2024-11-06",
         "image": "https://via.placeholder.com/150",
         "link": "post.html?post=squarespace"
     },
     {
         "title": "Wix",
         "snippet": "A beginner-friendly CMS offering drag-and-drop functionality and a variety of templates.",
-        "date": "2024-11-07",
         "image": "https://via.placeholder.com/150",
         "link": "post.html?post=wix"
     },
     {
         "title": "HubSpot CMS",
         "snippet": "A CMS optimized for inbound marketing with integrated tools for lead generation and SEO.",
-        "date": "2024-11-08",
         "image": "https://via.placeholder.com/150",
         "link": "post.html?post=hubspot"
     },
     {
         "title": "Ghost",
         "snippet": "A CMS tailored for professional bloggers with a minimalist design and robust editing tools.",
-        "date": "2024-11-09",
         "image": "https://via.placeholder.com/150",
         "link": "post.html?post=ghost"
     },
     {
         "title": "Contentful",
         "snippet": "A headless CMS ideal for developers to create content-driven websites and applications.",
-        "date": "2024-11-10",
         "image": "https://via.placeholder.com/150",
         "link": "post.html?post=contentful"
     }
