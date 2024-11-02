@@ -3,60 +3,60 @@
         "title": "WordPress",
         "snippet": "The most popular CMS platform, known for its flexibility and wide range of plugins.",
         "image": "wordpress.png",
-        "link": "post.html?post=wordpress"
+        "link": "wordpress.html"
     },
     {
         "title": "Joomla",
         "snippet": "A powerful, flexible CMS with a strong community and multilingual support.",
         "image": "joomla.png",
-        "link": "post.html?post=joomla"
+        "link": "joomla.html"
     },
     {
         "title": "Drupal",
         "snippet": "A highly customizable CMS favored by developers for complex and large-scale projects.",
         "image": "drupal_logo-blue.png",
-        "link": "post.html?post=drupal"
+        "link": "drupal.html"
     },
     {
         "title": "Magento",
         "snippet": "A popular CMS for eCommerce, providing robust solutions for online stores of all sizes.",
         "image": "magneto.png",
-        "link": "post.html?post=magento"
+        "link": "magento.html"
     },
     {
         "title": "Shopify",
         "snippet": "An easy-to-use eCommerce platform ideal for setting up online stores quickly.",
         "image": "shopify.jpg",
-        "link": "post.html?post=shopify"
+        "link": "shopify.html"
     },
     {
         "title": "Squarespace",
         "snippet": "A design-focused CMS with built-in tools for blogging, eCommerce, and portfolios.",
         "image": "squarespace.png",
-        "link": "post.html?post=squarespace"
+        "link": "Squarespace.html"
     },
     {
         "title": "Wix",
         "snippet": "A beginner-friendly CMS offering drag-and-drop functionality and a variety of templates.",
         "image": "wix.png",
-        "link": "post.html?post=wix"
+        "link": "wix.html"
     },
     {
         "title": "HubSpot CMS",
         "snippet": "A CMS optimized for inbound marketing with integrated tools for lead generation and SEO.",
         "image": "hubspot cms.png",
-        "link": "post.html?post=hubspot"
+        "link": "hubspot.html"
     },
     {
         "title": "Ghost",
         "snippet": "A CMS tailored for professional bloggers with a minimalist design and robust editing tools.",
         "image": "ghost.jpg",
-        "link": "post.html?post=ghost"
+        "link": "ghost.html"
     },
     {
         "title": "Contentful",
         "snippet": "A headless CMS ideal for developers to create content-driven websites and applications.",
         "image": "https://via.placeholder.com/150",
-        "link": "post.html?post=contentful"
+        "link": "contentful.html"
     }
 ]
